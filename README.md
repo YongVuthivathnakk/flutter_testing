@@ -1,6 +1,14 @@
 # flutter_test_app
 
-A new Flutter project.
+A UI that created to fits my understanding about Flutter development for the school course.
+
+## Description
+
+This UI is related to Breakfast app home page which include sections such as categories, recommendation for diet, and popular diets.
+
+## Source
+
+https://youtu.be/D4nhaszNW4o?si=gMgX2hJ3oaywkHpL
 
 ## Getting Started
 
@@ -14,4 +22,4 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-"# flutter_testing" 
+"# flutter_testing"
